@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CadastroAluno</string>
+
+    <string name="textNome">NOME</string>
+    <string name="textHintNome">Digite seu nome... </string>
+    <string name="textCpf">CPF</string>
+    <string name="textHintCpf">Digite seu cpf... </string>
+    <string name="textEmail">EMAIL</string>
+    <string name="textHintEmail">Digite seu email... </string>
+
+
+    <string name="button">CADASTRAR</string>
+
+</resources>

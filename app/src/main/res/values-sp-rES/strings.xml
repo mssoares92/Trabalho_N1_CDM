@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CadastroAluno</string>
+
+    <string name="textNome">NOMBRE</string>
+    <string name="textHint">Escriba su nombre... </string>
+    <string name="textCpf">CPF</string>
+    <string name="textHintCpf">Escriba su cpf... </string>
+    <string name="textEmail">EMAIL</string>
+    <string name="textHintEmail">Escriba su email... </string>
+
+
+    <string name="button">REGISTRAR</string>
+
+</resources>
